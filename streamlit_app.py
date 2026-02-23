@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 # ===============================
 # CONFIGURATION
 # ===============================
-NEWS_API_KEY = os.getenv("NEWS_API_KEY")
+NEWS_API_KEY = "266cf82f948a4071982dc2811f170936"   # Replace if needed
 MAX_LEN = 300
 
 # ===============================
